@@ -29,7 +29,7 @@ namespace pf
     int gameRow = 3;
     int gameColumn = 5;
 
-    int zCount = 1;
+    int zCount = 2;
     int zLife[zCountMx];
     int zAttack[zCountMx];
     int zRange[zCountMx];
